@@ -1,0 +1,71 @@
+.btn {
+  display: inline-block;
+  padding: 12px 28px;
+  border: 1px solid var(--text);
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.hero-controls {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 4;
+}
+
+.hero-arrow {
+  pointer-events: auto;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text);
+  font-size: 2rem;
+  opacity: var(--ui-muted, 0.4);
+}
+
+.hero-arrow:hover {
+  opacity: var(--ui-hover, 0.8);
+}
+
+.hero-arrow.prev {
+  left: 20px;
+}
+.hero-arrow.next {
+  right: 20px;
+}
+
+.hero-dots {
+  pointer-events: auto;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 4;
+}
+
+.hero-dot {
+  width: 6px;
+  height: 6px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--text);
+  opacity: var(--ui-muted, 0.4);
+  cursor: pointer;
+}
+
+.hero-dot.active {
+  opacity: 1;
+}

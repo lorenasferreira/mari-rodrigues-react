@@ -1,0 +1,109 @@
+{
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.services": "Services",
+  "nav.portfolio": "Portfolio",
+  "nav.contact": "Contact",
+
+  "hero.script": "the art of cinema",
+  "hero.title": "Mari Rodrigues",
+  "hero.subtitle": "Cinematic Urban Photography",
+  "hero.description": "My work is rooted in light, atmosphere, and honesty. I capture cinematic moments in everyday life — intimate, emotional, and quietly powerful.",
+  "hero.cta": "View Portfolio",
+  "about.meta.title": "About — Mari Rodrigues Photography",
+
+  "about.hero.title": "I’m Marina.",
+  "about.hero.subtitle": "I tell stories of people and places through cinematic photography.",
+
+  "about.story.text": "I love creating memories through my lens. My work focuses on meaningful experiences and timeless moments — especially in Barcelona, a city where art lives in every corner and ordinary moments become unforgettable.",
+
+  "about.keywords.light": "Light",
+  "about.keywords.movement": "Movement",
+  "about.keywords.intimacy": "Intimacy",
+  "about.keywords.honest": "Honest moments",
+
+  "about.closing.title": "Let’s create something meaningful together.",
+  "about.closing.text": "If my work resonates with you, I’d love to hear your story.",
+  "about.closing.cta": "Contact",
+
+  "about.hero.greeting": "Hi,",
+  "about.hero.name": "I’m Marina.",
+  "about.hero.lead": "A photographer and visual storyteller focused on telling stories of people and places through a cinematic lens. I don’t just take photos — I create experiences. Moments that feel natural, intimate, and timeless. Based in Barcelona, I’m deeply inspired by the city’s light, textures, and quiet poetry — a place where art lives in every corner and every moment has a story waiting to be told.",
+  "about.hero.script": "About Me",
+
+  "about.section.title": "About Me",
+  "about.section.subtitle": "Hey, thrill seeker.",
+  "about.section.paragraph1": "My work lives somewhere between photography, cinema, and storytelling.",
+  "about.section.paragraph2": "I’m drawn to honest emotion, natural beauty, and moments that unfold without performance — the quiet in-between, the golden shadows, the gestures you don’t rehearse.",
+  "about.section.paragraph3": "With a background in content creation, makeup, and filmmaking, I guide each photoshoot as a complete visual experience — from atmosphere and styling to movement and emotion.",
+  "about.section.paragraph4": "Whether photographing people, couples, or creative projects, my intention is always the same: to create images that don’t just document a moment, but invite you back into it.",
+  "about.section.cta": "Learn more",
+
+  "about.facts.script": "A few facts...",
+  "about.facts.subtitle": "Experiences that shaped how I see, feel, and create.",
+
+  "about.facts.one.title": "Roots",
+  "about.facts.one.text": "Born and raised in Santos, Brazil. Although I hold a degree in Business, visual storytelling has always been my true passion.",
+
+  "about.facts.two.title": "The world as a classroom",
+  "about.facts.two.text": "I spent four years working onboard cruise ships, traveling constantly and learning to observe people, cultures, and fleeting moments.",
+
+  "about.facts.three.title": "Barcelona",
+  "about.facts.three.text": "After moving to Barcelona, I fell in love with guiding people through the city and creating photoshoots that feel personal, cinematic, and real.",
+
+  "about.cta.title": "Let’s tell your story",
+  "about.cta.text": "If you feel connected to this way of seeing and creating, I’d love to hear from you. Wherever you are, let’s create something meaningful together.",
+  "about.cta.button": "Get in touch",
+
+  "packages.meta.title": "Photography Packages — Mari Rodrigues",
+
+  "packages.hero.title_line1": "Explore the",
+  "packages.hero.title_line2": "Packages",
+
+  "packages.publicity.title": "Commercial",
+  "packages.publicity.alt": "Commercial photography for brands and creative projects",
+
+  "packages.bts.title": "BTS",
+  "packages.bts.alt": "Behind the scenes photography for events and creative projects",
+
+  "packages.portrait.title": "Portraits",
+  "packages.portrait.alt": "Individual portrait photography session",
+
+  "packages.editorial.title": "Editorial / Artistic",
+  "packages.editorial.alt": "Editorial and artistic photography sessions",
+
+  "contact.meta.title": "Contact — Mari Rodrigues",
+
+  "contact.hero.title": "Let’s connect",
+  "contact.hero.lead": "Tell me a little about yourself and what you have in mind.",
+  "contact.hero.script": "Contact",
+
+  "contact.section.title": "Get in touch",
+  "contact.section.text": "If you felt a connection with my work, I’d love to hear your story and understand how I can help.",
+  "contact.section.quote": "Every story deserves to be told with care.",
+
+  "contact.form.name": "Name",
+  "contact.form.message": "Message",
+  "contact.form.submit": "Send message",
+  "contact.whatsapp.message": "Hello Mari, my name is {{name}}. I would like more information about your services. \n\n{{message}}",
+
+  "about.reviews.script": "Reviews",
+  "about.reviews.text": "Every photoshoot is a unique experience. The words of those who have already been part of it say far more than any portfolio. Here you can find real opinions, shared spontaneously by clients on Google.",
+  "about.reviews.cta": "See reviews on Google",
+
+  "portfolio.publicity.title": "COMMERCIAL",
+  "portfolio.publicity.subtitle": "Images designed to communicate, inspire and sell",
+  "portfolio.publicity.text": "Commercial photography for brands, products, and creative projects. Cinematic imagery with a strong visual identity, created to showcase your brand and connect with your audience.",
+
+  "portfolio.events-bts.title": "BTS",
+  "portfolio.events-bts.subtitle": "Behind the scenes, real moments",
+  "portfolio.events-bts.text": "Behind the scenes photography that captures the energy, movement, and authenticity of creative processes.",
+
+  "portfolio.editorial-artistic.title": "EDITORIAL",
+  "portfolio.editorial-artistic.subtitle": "Artistic and cinematic vision",
+  "portfolio.editorial-artistic.text": "Editorial sessions focused on storytelling, aesthetics, and strong visual identity.",
+
+  "portfolio.portraits.title": "PORTRAITS",
+  "portfolio.portraits.subtitle": "Your presence, honestly captured",
+  "portfolio.portraits.text": "Portrait sessions are a space for self-expression and authenticity. Whether natural or styled, the focus is always on who you are — your energy, your story, your essence."
+}

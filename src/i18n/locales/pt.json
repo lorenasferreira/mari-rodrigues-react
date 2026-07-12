@@ -1,0 +1,94 @@
+{
+  "nav.home": "Início",
+  "nav.about": "Sobre",
+  "nav.services": "Serviços",
+  "nav.portfolio": "Portfólio",
+  "nav.contact": "Contato",
+
+  "hero.script": "a arte do cinema",
+  "hero.title": "Mari Rodrigues",
+  "hero.subtitle": "Fotografia Urbana Cinematográfica",
+  "hero.description": "Meu trabalho nasce da luz, da atmosfera e da honestidade. Capturo momentos cinematográficos do cotidiano — íntimos, emocionais e silenciosamente poderosos.",
+  "hero.cta": "Ver Portfolio",
+
+  "about.meta.title": "Sobre mim — Mari Rodrigues Photography",
+
+  "about.hero.greeting": "Oi,",
+  "about.hero.name": "sou a Marina.",
+  "about.hero.lead": "Fotógrafa e contadora de histórias visuais, focada em narrar pessoas e lugares através de um olhar cinematográfico. Não apenas tiro fotos — crio experiências. Momentos naturais, íntimos e atemporais. Meu trabalho é inspirado pela luz, pelas texturas e pela poesia silenciosa dos lugares por onde passo.",
+  "about.hero.script": "Sobre mim",
+
+  "about.section.paragraph1": "Meu trabalho vive entre a fotografia, o cinema e a narrativa visual.",
+  "about.section.paragraph2": "Sou atraída por emoções honestas, beleza natural e momentos que acontecem sem encenação — os silêncios, as sombras douradas e os gestos não ensaiados.",
+  "about.section.paragraph3": "Com experiência em criação de conteúdo, maquiagem e filmmaking, conduzo cada ensaio como uma experiência visual completa — da atmosfera e do estilo ao movimento e à emoção.",
+  "about.section.paragraph4": "Seja fotografando pessoas, casais ou projetos criativos, minha intenção é sempre a mesma: criar imagens que não apenas registrem um momento, mas convidem você a revivê-lo.",
+
+  "about.facts.script": "Alguns fatos",
+  "about.facts.subtitle": "Experiências que moldaram meu olhar, minhas sensações e meu processo criativo.",
+
+  "about.facts.one.title": "Origens",
+  "about.facts.one.text": "Nasci e cresci em Santos, Brasil. Apesar da formação em Administração, a narrativa visual sempre foi minha verdadeira paixão.",
+
+  "about.facts.two.title": "O mundo como escola",
+  "about.facts.two.text": "Trabalhei por quatro anos em cruzeiros, viajando constantemente e aprendendo a observar pessoas, culturas e momentos passageiros.",
+
+  "about.facts.three.title": "Barcelona",
+  "about.facts.three.text": "Depois de me mudar para Barcelona, me apaixonei por apresentar a cidade através do meu olhar e criar ensaios que sejam pessoais, cinematográficos e reais.",
+
+  "about.cta.title": "Vamos contar sua história",
+  "about.cta.text": "Se você se conecta com essa forma de ver e criar, vou adorar ouvir você. Onde quer que esteja, vamos criar algo significativo juntos.",
+  "about.cta.button": "Entrar em contato",
+
+  "packages.meta.title": "Pacotes Fotográficos — Mari Rodrigues",
+
+  "packages.hero.title_line1": "Explore os",
+  "packages.hero.title_line2": "Pacotes",
+
+  "packages.publicity.title": "Publicidade",
+  "packages.publicity.alt": "Fotografia publicitária para marcas e projetos criativos",
+
+  "packages.bts.title": "BTS",
+  "packages.bts.alt": "Fotografia de bastidores para eventos e projetos criativos",
+
+  "packages.portrait.title": "Ensaio Individual",
+  "packages.portrait.alt": "Ensaio fotográfico individual",
+
+  "packages.editorial.title": "Editorial / Artístico",
+  "packages.editorial.alt": "Ensaios fotográficos editoriais e artísticos",
+  "contact.meta.title": "Contato — Mari Rodrigues",
+
+  "contact.hero.title": "Vamos nos conectar",
+  "contact.hero.lead": "Conte um pouco sobre você e o que tem em mente.",
+  "contact.hero.script": "Contato",
+
+  "contact.section.title": "Entre em contato",
+  "contact.section.text": "Se você sentiu conexão com meu trabalho, será um prazer ouvir sua história e entender como posso ajudar.",
+  "contact.section.quote": "Toda história merece ser contada com sensibilidade.",
+
+  "contact.form.name": "Nome",
+  "contact.form.message": "Mensagem",
+  "contact.form.submit": "Enviar mensagem",
+  "contact.whatsapp.message": "Olá Mari, o meu nome é {{name}}. Gostaria de receber mais informações sobre os seus serviços. \n\n{{message}}",
+
+  "about.reviews.script": "Reviews",
+  "about.reviews.title": "O que as pessoas dizem",
+  "about.reviews.subtitle": "Experiências reais, registradas por quem viveu o momento",
+  "about.reviews.text": "Cada sessão é única, e as palavras de quem já passou pela experiência dizem muito mais do que qualquer portfólio. Aqui estão opiniões reais, deixadas espontaneamente por clientes no Google.",
+  "about.reviews.cta": "Ver avaliações no Google",
+
+  "portfolio.publicity.title": "PUBLICIDADE",
+  "portfolio.publicity.subtitle": "Imagens pensadas para comunicar, inspirar e vender",
+  "portfolio.publicity.text": "Fotografia publicitária para marcas, produtos e projetos criativos. Imagens com identidade, atmosfera e intenção visual, criadas para destacar sua marca e conectar com o seu público.",
+
+  "portfolio.events-bts.title": "BASTIDORES",
+  "portfolio.events-bts.subtitle": "Por trás das cenas, momentos reais",
+  "portfolio.events-bts.text": "Fotografia de bastidores que captura a energia, o movimento e a autenticidade dos processos criativos.",
+
+  "portfolio.editorial-artistic.title": "EDITORIAL",
+  "portfolio.editorial-artistic.subtitle": "Visão artística e cinematográfica",
+  "portfolio.editorial-artistic.text": "Ensaios editoriais focados em narrativa, estética e uma identidade visual forte.",
+
+  "portfolio.portraits.title": "RETRATOS",
+  "portfolio.portraits.subtitle": "Sua presença, capturada com verdade",
+  "portfolio.portraits.text": "Ensaios de retrato são um espaço de expressão e autenticidade. Naturais ou produzidos, o foco é sempre quem você é — sua energia, sua história, sua essência."
+}
