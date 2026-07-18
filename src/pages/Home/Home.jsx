@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import "./Home.css";
+import { Link } from "react-router-dom";
 
 const desktopImages = [
   "/assets/images/hero-desktop/hero-01.jpg",
@@ -121,9 +122,9 @@ function Home() {
             <img src="/assets/images/ui/logo.png" alt="Mari Rodrigues Logo" />
           </div>
 
-          <a href="/packages" className="btn">
+          <Link to="/packages" className="btn">
             {t("hero.cta")}
-          </a>
+          </Link>
         </div>
       </section>
     </main>
